@@ -1,7 +1,7 @@
 # work-calender
 
 <figure>
-<img src="/assets/images//Users/aaronanglin/Desktop/work-calender/Assets/image/Screen Shot 2022-07-03 at 8.25.02 PM.png" alt="working calender">
+<img src="/assets/images/Screen Shot 2022-07-03 at 8.25.02 PM.png" alt="working calender">
 <figcaption>My working calender with added CSS</figcaption>
 </figure>
 <h2>How it saves</h2>
