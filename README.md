@@ -1,6 +1,6 @@
 # work-calender
 
-[![My working Calender](/image/Screen%20Shot%202022-07-03%20at%208.25.02%20PM.png)]
+![My working Calender](/image/Screen%20Shot%202022-07-03%20at%208.25.02%20PM.png)
 <figure>
 <figcaption>My working calender with added CSS</figcaption>
 </figure>
