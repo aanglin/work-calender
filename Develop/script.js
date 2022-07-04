@@ -48,7 +48,6 @@ $(document).ready(function () {
     }
 
     // This brings what is saved in local storage on the screen. It uses the computer local storage to hold the information.
-    $("#hour8 .description").val(localStorage.getItem("hour8"));
     $("#hour9 .description").val(localStorage.getItem("hour9"));
     $("#hour10 .description").val(localStorage.getItem("hour10"));
     $("#hour11 .description").val(localStorage.getItem("hour11"));
