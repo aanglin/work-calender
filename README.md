@@ -1,7 +1,7 @@
 # work-calender
 
 <figure>
-<img src="/assets/images/Screen Shot 2022-07-03 at 8.25.02 PM.png" alt="working calender">
+![My working Calender](/Assets/image/Screen%20Shot%202022-07-03%20at%208.25.02%20PM.png)
 <figcaption>My working calender with added CSS</figcaption>
 </figure>
 <h2>How it saves</h2>
